@@ -36,6 +36,7 @@ Welcome to my GitHub! I specialize in building modern, enterprise-grade web appl
 
 ## 📬 Let’s Connect
 - 📧 Email: [devuptech@gmail.com](mailto:devuptech@gmail.com)
+- 💻 [Upwork](https://www.upwork.com/freelancers/saimaanoureen?mp_source=share)
 - 🌐 Portfolio: Coming Soon!
 
 ---
