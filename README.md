@@ -42,4 +42,4 @@ Welcome to my GitHub! I specialize in building modern, enterprise-grade web appl
 
 > “Clean code is not written by following rules. It is written with an understanding.” – Saima
 
-Thanks for visiting!
+I'm open for collaborations and happy to help with new projects. Thanks for visiting!
