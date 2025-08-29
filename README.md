@@ -18,8 +18,8 @@
   - Seamless AI workflows for sales order management, invoicing, payments automation
 
 - <i>**CRM, Headless LMS & EdTech**</i>
-  - Interactive intelligent contents generation
-  - Online Assessment Application, Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
+  - Interactive & intelligent contents generation
+  - Online assessment application, Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
    AI based assessments
 
 - <i>**System Modernization from legacy, out-dated apps**</i>
