@@ -23,7 +23,7 @@
 
 - <i>**System Modernization from legacy, out-dated apps**</i>
 
-<mark>💬 Operating in a different domain? Let’s discuss your specific requirements and build a tailored solution.</mark>
+<mark>💬 Your business operates in a different domain? Let’s discuss your specific requirements and build a tailored solution.</mark>
 
 
 ## 🛠️ Tech Stack Expertise
