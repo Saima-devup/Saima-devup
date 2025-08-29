@@ -28,14 +28,14 @@
 
 
 ## 🛠️ Tech Stack Expertise
- AI-Powered Tools
-- Azure Cognitive Services:
+ <b><i>AI-Powered Tools</i></b>
+- <b>Azure Cognitive Services:</b>
   - `Azure Form Recognizer (Document Intelligence)`
   - `Azure OCR (via AI Vision)`
   - `Azure AI Vision (image analysis + OCR)`
   - `Azure Machine Learning`
 
-- OpenAI:
+- <b>OpenAI:</b>
   - `NLP (Natural Language Processing)`
   - `Content Generation`
   - `Text Processing (summarization, classification, translation)`
