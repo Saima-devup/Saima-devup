@@ -14,7 +14,7 @@
   - Marketplace platforms with role-based workflows
 
 - <i>**ERP & Enterprise Applications**</i>
-  - 3.5 years on ERP (Finance, Inventory, HR modules)
+  - 3.5 years on ERP (Sales, Finance, Inventory, Procurement, Production, Payroll, HR & Reporting modules)
   - Seamless AI workflows for sales order management, invoicing, payments automation
 
 - <i>**Headless Learning Management Systems (LMS) & Online Exam Platforms**</i>
