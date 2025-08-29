@@ -35,8 +35,11 @@
 
 ---
 
+## 💬 If you need a long-term partner who understands both enterprise workflows and modern AI-driven development, let’s connect. I’d be glad to discuss your project and share code samples/demo apps relevant to your needs.
+
 ## 📬 Let’s Connect
 - 📧 Email: [devuptech@gmail.com](mailto:devuptech@gmail.com)
+- 📧 Email: [saimaa.noureen@gmail.com](mailto:saimaa.noureen@gmail.com)
 - 🌐 Portfolio: Coming Soon!
 
 ---
