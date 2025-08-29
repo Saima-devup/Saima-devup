@@ -23,7 +23,8 @@
 
 - **System Modernization from legacy, out-dated apps**
 
-## Operating in a different domain? Let’s discuss your specific requirements and build a tailored solution.
+<mark>💬 Operating in a different domain? Let’s discuss your specific requirements and build a tailored solution.</mark>
+
 
 ## 🛠️ Tech Stack Expertise
  AI-Powered Tools
@@ -75,13 +76,9 @@
 - Oil & Gas real-time analytics dashboards with AI-driven predictions.
 - E-commerce platform with sales order management & marketplace features.
 
-## 💬 If you need a long-term partner who understands both enterprise workflows and modern AI-driven development, let’s connect. I’d be glad to discuss your project and share code samples/demo apps relevant to your needs.
+<mark>💬 If you need a long-term partner who understands both enterprise workflows and modern AI-driven development, let’s connect. I’d be glad to discuss your project and share code samples/demo apps relevant to your needs.</mark>
 
 ## 📬 Let’s Connect
 - 📧 Email: [devuptech@gmail.com](mailto:devuptech@gmail.com)
 - 💻 [Upwork](https://www.upwork.com/freelancers/saimaanoureen?mp_source=share)
 - 🌐 Portfolio: Coming Soon!
-
-## 📈 GitHub Stats
-
-![Saima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saima-devup&show_icons=true&hide_title=true)
