@@ -11,12 +11,6 @@
 - ✅ Clean architecture & component-driven development
 - ✅ CI/CD, version control (Git), and DevOps best practices
 
-## 💡 Why Clients Work With Me:
-- Deep domain experience across EdTech, ERP, Oil & Gas, and eCommerce.
-- Full-stack expertise: ASP.NET Core, Blazor, EF Core, SQL Server, Azure, REST APIs.
-- Proven record of building production-ready AI-powered applications.
-- Focus on clean code, maintainability, and scalability.
-
 
 ## 🛠️ Tech Stack Expertise
  AI-Powered Tools
@@ -52,8 +46,16 @@
 
 > “Clean code is not written by following rules. It is written with an understanding.” – Saima
 
+
+## 💡 Why Clients Work With Me:
+- Diverse, Deep domain experience across EdTech, ERP, Oil & Gas and eCommerce
+- Full-stack expertise, end-to-end enterprise-level applications development 
+- Proven record of building production-ready AI-powered applications.
+- Clean architecture, Modular design with focus on clean code, maintainability and scalability.
+  
+
 ## 📌 Past Projects Include:
-- ERP platform for Saudi Abhasain (3.5 years, enterprise-scale).
+- ERP platform for S & A. Abahsain Co. Ltd. (3.5 years, Enterprise-scale).
 - LMS with online exam/assessment system (import/export, auto-grading, analytics).
 - AI-based document management system with Azure OCR + classification.
 - Oil & Gas real-time analytics dashboards with AI-driven predictions.
@@ -65,15 +67,3 @@
 - 📧 Email: [devuptech@gmail.com](mailto:devuptech@gmail.com)
 - 💻 [Upwork](https://www.upwork.com/freelancers/saimaanoureen?mp_source=share)
 - 🌐 Portfolio: Coming Soon!
-
----
-
-
-## 🚀 Featured Projects
-- 🔹 **ERP / eCommerce :** Developed enterprise ERP and ecommerce using .NET Framework, ASP.NET Core, Blazor, EF, EF Core, MS SQL
-- 🔹 **CMS Modernization:** Migrated enterprise CMS from .NET 4.8 & Vue.js to .NET 8 & Blazor
-- 🔹 **Custom Form & Document Generator:** Built dynamic UI and document pipelines based on database schema
-- 🔹 **Error & Audit Logging Framework:** Created reusable logging components for Blazor Server apps
-
-
-I'm open for collaborations and happy to help with new projects. Thanks for visiting!
