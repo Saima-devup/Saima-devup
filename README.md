@@ -46,7 +46,12 @@
 
 > “Clean code is not written by following rules. It is written with an understanding.” – Saima
 
-##
+## 📌 Past Projects Include:
+- ERP platform for Saudi Abhasain (3.5 years, enterprise-scale).
+- LMS with online exam/assessment system (import/export, auto-grading, analytics).
+- AI-based document management system with Azure OCR + classification.
+- Oil & Gas real-time analytics dashboards with AI-driven predictions.
+- E-commerce platform with sales order management & marketplace features.
 
 ## 💬 If you need a long-term partner who understands both enterprise workflows and modern AI-driven development, let’s connect. I’d be glad to discuss your project and share code samples/demo apps relevant to your needs.
 
