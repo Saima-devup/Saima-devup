@@ -28,8 +28,8 @@
 
 
 ## 🛠️ Tech Stack Expertise
- <b><i>AI-Powered Tools</i></b>
-- <b>Azure Cognitive Services:</b>
+ <b>AI-Powered Tools</b>
+- Azure Cognitive Services:
   - `Azure Form Recognizer (Document Intelligence)`
   - `Azure OCR (via AI Vision)`
   - `Azure AI Vision (image analysis + OCR)`
@@ -72,7 +72,7 @@
 - ERP platform for S & A. Abahsain Co. Ltd. (3.5 years, Enterprise-scale).
 - LMS with online exam/assessment system (import/export, auto-grading, analytics).
 - AI-based document management system with Azure OCR + classification.
-- Oil & Gas real-time analytics dashboards with AI-driven predictions.
+- Real-time analytics dashboards with AI-driven predictions.
 - E-commerce platform with sales order management & marketplace features.
 
 <mark>💬 If you need a long-term partner who understands both enterprise workflows and modern AI-driven development, let’s connect. I’d be glad to discuss your project and share code samples/demo apps relevant to your needs.</mark>
