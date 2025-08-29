@@ -51,7 +51,7 @@
 - **Cloud:** `AWS, Azure (AI, App Services, Functions, Blob Storage)`
 - **Unit Testing & Automation:** `Specflow, MS Testing`
 - **UI Test Automation:** `Playwright (NUnit Blazor C#)`
-- **Tools:** `Github, Azure DevOps, IIS, Visual Studio`
+- **Tools:** `Github, Azure DevOps, IIS, Visual Studio, Payment Gateway STRIPE integration`
 - **Code Quality Analyzers:** `Roslyn, SonarQube`
 - `Analysis, Debugging, Code Reviews, and Scrum`
 - `SOA, OOP, DDD, TDD, SOLID Principles`
