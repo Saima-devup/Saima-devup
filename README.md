@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack Expertise
  <b>AI-Powered Tools</b>
-- Azure Cognitive Services:
+- <b>Azure Cognitive Services:</b>
   - `Azure Form Recognizer (Document Intelligence)`
   - `Azure OCR (via AI Vision)`
   - `Azure AI Vision (image analysis + OCR)`
