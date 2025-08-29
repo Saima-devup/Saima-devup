@@ -56,8 +56,8 @@
 - `Analysis, Debugging, Code Reviews, and Scrum`
 - `SOA, OOP, DDD, TDD, SOLID Principles`
 - `BDD (Gherkin syntax)`
-- `Effective Communication and Knowledge Sharing`
-- `Ability to work remotely and independently`
+- `Teamoriented, Effective Communication and Knowledge Sharing`
+- `Ability to work remotely and independently with the ownership of end-to-end development`
 - `Managed medium-sized projects from various domains`
 
 
