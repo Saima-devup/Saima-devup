@@ -11,6 +11,12 @@
 - ✅ Clean architecture & component-driven development
 - ✅ CI/CD, version control (Git), and DevOps best practices
 
+## 💡 Why Clients Work With Me:
+- Deep domain experience across EdTech, ERP, Oil & Gas, and eCommerce.
+- Full-stack expertise: ASP.NET Core, Blazor, EF Core, SQL Server, Azure, REST APIs.
+- Proven record of building production-ready AI-powered applications.
+- Focus on clean code, maintainability, and scalability.
+
 
 ## 🛠️ Tech Stack Expertise
  AI-Powered Tools
