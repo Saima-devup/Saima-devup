@@ -1,16 +1,29 @@
 # 👋 Hi, I'm Saima – Software Engineer
 
 
-🚀 I help businesses build scalable .NET Framework applications — from LMS & online exam platforms to ERP, eCommerce, and AI-powered enterprise solutions. With 15+ years of experience, I combine strong expertise (C#, ASP.NET (MVC/Web API/Core), Blazor, EF Core, Open AI, Azure and SQL Server) to build modern and future-ready systems that are robust, maintainable and user-friendly.
+🚀 I help businesses build scalable .NET Framework applications — from LMS & EdTech to ERP, eCommerce and AI-powered enterprise solutions. With 15+ years of experience, I combine strong expertise (C#, ASP.NET (MVC/Web API/Core), Blazor, EF Core, Open AI, Azure and SQL Server) to build modern and future-ready systems that are robust, maintainable and user-friendly.
 
+## ✅ What I Can Build for You:
+AI-Powered Business Tools
+ - Document management with Azure OCR & AI text extraction
+ - AI-based image/voice processing, facial recognition, predictive analytics
+ - Real-time dashboards for Oil & Gas and eCommerce clients
 
-## 🧠 What I Do
-- ✅ Full Stack Web Development (.NET, Blazor, HTML/CSS/JS)
-- ✅ System Modernization (Web Forms ➜ Blazor, .NET Framework ➜ .NET 8+)
-- ✅ API Design and Integration
-- ✅ Clean architecture & component-driven development
-- ✅ CI/CD, version control (Git), and DevOps best practices
+E-commerce & Marketplaces
+- Online store, order & payment management
+- Marketplace platforms with role-based workflows
 
+ERP & Enterprise Applications
+- 3.5 years on ERP (Finance, Inventory, HR modules)
+- Seamless AI workflows for sales order management, invoicing, payments automation
+
+Headless Learning Management Systems (LMS) & Online Exam Platforms
+- Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
+- AI based assessments
+
+System Modernization from legacy, out-dated apps
+
+## Operating in a different domain? Let’s discuss your specific requirements and build a tailored solution.
 
 ## 🛠️ Tech Stack Expertise
  AI-Powered Tools
@@ -24,6 +37,7 @@
   - NLP (Natural Language Processing)
   - Content Generation (text, code, creative)
   - Text Processing (summarization, classification, translation)
+  
 ##
 - **Frameworks:** .Net Framework (v3.0 - 8), C#, .NET Core, ASP.NET MVC, Blazor (Server, WASM), .NET MAUI, WCF, WinForms, ADO.NET, EF, EF Core, PowerShell, IIS, TFS, Github, DevOps
 - **Languages:** C#, Python, XML, XAML SQL, HTML, JavaScript
@@ -51,7 +65,7 @@
 - Diverse, Deep domain experience across EdTech, ERP, Oil & Gas and eCommerce
 - Full-stack expertise, end-to-end enterprise-level applications development 
 - Proven record of building production-ready AI-powered applications.
-- Clean architecture, Modular design with focus on clean code, maintainability and scalability.
+- Clean architecture, Component-driven design with focus on clean code, maintainability and scalability.
   
 
 ## 📌 Past Projects Include:
@@ -67,3 +81,7 @@
 - 📧 Email: [devuptech@gmail.com](mailto:devuptech@gmail.com)
 - 💻 [Upwork](https://www.upwork.com/freelancers/saimaanoureen?mp_source=share)
 - 🌐 Portfolio: Coming Soon!
+
+## 📈 GitHub Stats
+
+![Saima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saima-devup&show_icons=true&hide_title=true)
