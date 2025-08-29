@@ -17,8 +17,9 @@
   - 3.5 years on ERP (Sales, Finance, Inventory, Procurement, Production, Payroll, HR & Reporting modules)
   - Seamless AI workflows for sales order management, invoicing, payments automation
 
-- <i>**Headless Learning Management Systems (LMS) & Online Exam Platforms**</i>
-  - Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
+- <i>**CRM, Headless LMS & EdTech**</i>
+  - Interactive intelligent contents generation
+  - Online Assessment Application, Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
    AI based assessments
 
 - <i>**System Modernization from legacy, out-dated apps**</i>
