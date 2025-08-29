@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Saima – Software Engineer / Full Stack .NET Developer
+# 👋 Hi, I'm Saima – Software Engineer
 
-Welcome to my GitHub! I specialize in building modern, enterprise-grade web applications using Microsoft technologies. With a strong foundation in C#, ASP.NET (MVC/Web API/Core), Blazor, and SQL Server, I’ve helped modernize legacy systems and craft scalable, maintainable solutions.
+
+🚀 I help businesses build scalable .NET Framework applications — from LMS & online exam platforms to ERP, eCommerce, and AI-powered enterprise solutions. With 15+ years of experience, I combine strong expertise (C#, ASP.NET (MVC/Web API/Core), Blazor, EF Core, Open AI, Azure and SQL Server) to build modern and future-ready systems that are robust, maintainable and user-friendly.
 
 ---
 
