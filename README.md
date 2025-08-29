@@ -4,24 +4,24 @@
 🚀 I help businesses build scalable .NET Framework applications — from LMS & EdTech to ERP, eCommerce and AI-powered enterprise solutions. With 15+ years of experience, I combine strong expertise (C#, ASP.NET (MVC/Web API/Core), Blazor, EF Core, Open AI, Azure and SQL Server) to build modern and future-ready systems that are robust, maintainable and user-friendly.
 
 ## ✅ What I Can Build for You:
-AI-Powered Business Tools
- - Document management with Azure OCR & AI text extraction
- - AI-based image/voice processing, facial recognition, predictive analytics
- - Real-time dashboards for Oil & Gas and eCommerce clients
+- **AI-Powered Business Tools**
+  - Document management with Azure OCR & AI text extraction
+  - AI-based image/voice processing, facial recognition, predictive analytics
+  - Real-time dashboards for Oil & Gas and eCommerce clients
 
-E-commerce & Marketplaces
-- Online store, order & payment management
-- Marketplace platforms with role-based workflows
+- **E-commerce & Marketplaces**
+  - Online store, order & payment management
+  - Marketplace platforms with role-based workflows
 
-ERP & Enterprise Applications
-- 3.5 years on ERP (Finance, Inventory, HR modules)
-- Seamless AI workflows for sales order management, invoicing, payments automation
+- **ERP & Enterprise Applications**
+  - 3.5 years on ERP (Finance, Inventory, HR modules)
+  - Seamless AI workflows for sales order management, invoicing, payments automation
 
-Headless Learning Management Systems (LMS) & Online Exam Platforms
-- Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
-- AI based assessments
+- **Headless Learning Management Systems (LMS) & Online Exam Platforms**
+  - Quiz/question management with data imports (Word, Excel, CSV), grading, analytics dashboards
+   AI based assessments
 
-System Modernization from legacy, out-dated apps
+- **System Modernization from legacy, out-dated apps**
 
 ## Operating in a different domain? Let’s discuss your specific requirements and build a tailored solution.
 
