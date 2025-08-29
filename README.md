@@ -80,4 +80,4 @@
 ## 📬 Let’s Connect
 - 📧 Email: [devuptech@gmail.com](mailto:devuptech@gmail.com)
 - 💻 [Upwork](https://www.upwork.com/freelancers/saimaanoureen?mp_source=share)
-- 🌐 Portfolio: Coming Soon!
+- 🌐 Profile: (http://devup.tech/)
