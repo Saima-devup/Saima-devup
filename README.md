@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saima – Software Engineer
+# 👋 Hi, I'm Saima – AI-Powered Software Engineer | .NET & Blazor Expert 
 
 
 🚀 I help businesses build scalable .NET Framework applications — from LMS & EdTech to ERP, eCommerce and AI-powered enterprise solutions. With 15+ years of experience, I combine strong expertise (C#, ASP.NET (MVC/Web API/Core), Blazor, EF Core, Open AI, Azure and SQL Server) to build modern and future-ready systems that are robust, maintainable and user-friendly.
@@ -36,9 +36,9 @@
   - `Azure Machine Learning`
 
 - <b>OpenAI:</b>
+  - `LLM`
   - `NLP (Natural Language Processing)`
-  - `Content Generation`
-  - `Text Processing (summarization, classification, translation)`
+  - `Content Generation`, `Text Processing (summarization, classification, translation)`
   
 ##
 - **Frameworks:** `.Net Framework (v3.0 - 8), C#, .NET Core, ASP.NET MVC, Blazor (Server, WASM), .NET MAUI, WCF, WinForms, ADO.NET, EF, EF Core, PowerShell, IIS, TFS, Github, DevOps`
